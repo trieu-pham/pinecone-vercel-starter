@@ -13,9 +13,11 @@
   "dependencies": {
     "@ai-sdk/openai": "^0.0.60",
     "@aws-amplify/ui-react": "^6.6.0",
+    "@aws-amplify/ui-react-storage": "^3.4.0",
     "@pinecone-database/doc-splitter": "^0.0.1",
     "@pinecone-database/pinecone": "^3.0.3",
     "ai": "^3.3.39",
+    "aws-amplify": "^6.9.0",
     "cheerio": "^1.0.0",
     "eslint": "^8.0.0",
     "eslint-config-next": "14.2.11",
